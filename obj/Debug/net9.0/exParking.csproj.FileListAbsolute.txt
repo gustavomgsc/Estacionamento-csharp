@@ -1,0 +1,14 @@
+C:\Root\Repos\exParking\bin\Debug\net9.0\exParking.exe
+C:\Root\Repos\exParking\bin\Debug\net9.0\exParking.deps.json
+C:\Root\Repos\exParking\bin\Debug\net9.0\exParking.runtimeconfig.json
+C:\Root\Repos\exParking\bin\Debug\net9.0\exParking.dll
+C:\Root\Repos\exParking\bin\Debug\net9.0\exParking.pdb
+C:\Root\Repos\exParking\obj\Debug\net9.0\exParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Root\Repos\exParking\obj\Debug\net9.0\exParking.AssemblyInfoInputs.cache
+C:\Root\Repos\exParking\obj\Debug\net9.0\exParking.AssemblyInfo.cs
+C:\Root\Repos\exParking\obj\Debug\net9.0\exParking.csproj.CoreCompileInputs.cache
+C:\Root\Repos\exParking\obj\Debug\net9.0\exParking.dll
+C:\Root\Repos\exParking\obj\Debug\net9.0\refint\exParking.dll
+C:\Root\Repos\exParking\obj\Debug\net9.0\exParking.pdb
+C:\Root\Repos\exParking\obj\Debug\net9.0\exParking.genruntimeconfig.cache
+C:\Root\Repos\exParking\obj\Debug\net9.0\ref\exParking.dll
